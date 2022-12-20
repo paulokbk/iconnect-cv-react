@@ -1,3 +1,3 @@
-# Controle de Estoque em React e Jquery
+# Controle de Estoque em React e firebase
 
 
