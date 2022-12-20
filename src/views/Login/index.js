@@ -2,7 +2,7 @@ import "./index.scss";
 
 export const Login = () => {
   return (
-    <body>
+    <div className="body">
       <div className="max-width-content">
         <div className="box-login">
           <img src="./assets/logo.jpg" alt="Logo iConnect" className="logo" />
@@ -14,6 +14,6 @@ export const Login = () => {
           </form>
         </div>
       </div>
-    </body>
+    </div>
   );
 };
