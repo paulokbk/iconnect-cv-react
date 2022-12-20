@@ -1,5 +1,17 @@
+$primary-color: #505050;
+$border-radius: 15px;
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+@import './views/Login/index.scss';
+@import './views/Home/components/Sidebar/Sidebar.scss';
+
+
+body{
+    background-color: $primary-color;
+}
+
 
 *{
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
 }
